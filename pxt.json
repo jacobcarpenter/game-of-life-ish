@@ -1,5 +1,6 @@
 {
     "name": "game-of-life-ish",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
